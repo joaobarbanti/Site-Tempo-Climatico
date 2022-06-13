@@ -4,7 +4,7 @@
 
 ## Algumas Telas Da Aplicação
 <img align="center" src="git.png">
-<img align="center" src="img/git 2.png">
+<img align="center" src="git 2.png">
 
 
 ## 🚀Tecnologias Usadas
