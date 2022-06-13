@@ -3,7 +3,7 @@
 ### Um site que permite você pesquisar qualquer local do munodo e ver o clima dele em tempo real, seja a temperatura, umidade,valocidade do vento e cor do céu
 
 ## Algumas Telas Da Aplicação
-<img align="center" src="img/git.png">
+<img align="center" src="git.png">
 <img align="center" src="img/git 2.png">
 
 
