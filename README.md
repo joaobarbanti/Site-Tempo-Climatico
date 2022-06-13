@@ -1,4 +1,4 @@
-## App Climático 
+## Site Climático ☀️
 
 ### Um site que permite você pesquisar qualquer local do munodo e ver o clima dele em tempo real, seja a temperatura, umidade,valocidade do vento e cor do céu
 
